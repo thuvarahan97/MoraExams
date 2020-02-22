@@ -1,0 +1,115 @@
+.btn-add {
+    width: 28px;
+    height: 28px;
+    border:none;
+    box-shadow: none;
+    background-color: #00e000;
+    color: white;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    text-align: center;
+    cursor: pointer;
+}
+.btn-add:hover {
+    background-color: #27b93a;
+}
+.btn-add:active {
+    background-color: #21a327;
+    outline: none;
+}
+.btn-add:focus {
+    outline: none;
+}
+.btn-edit {
+    width: 28px;
+    height: 28px;
+    border:none;
+    box-shadow: none;
+    background-color: #007ff6;
+    color: white;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    text-align: center;
+    cursor: pointer;
+}
+.btn-edit:hover {
+    background-color: #297ece;
+}
+.btn-edit:active {
+    background-color: #2472bb;
+    outline: none;
+}
+.btn-edit:focus {
+    outline: none;
+}
+.btn-delete {
+    width: 28px;
+    height: 28px;
+    border:none;
+    box-shadow: none;
+    background-color: #f50000;
+    color: white;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    text-align: center;
+    cursor: pointer;
+}
+.btn-delete:hover {
+    background-color: #ca1717;
+}
+.btn-delete:active {
+    background-color: #b10000;
+    outline: none;
+}
+.btn-delete:focus {
+    outline: none;
+}
+.btn-padding-sm {
+    padding: 7px;
+}
+.search {
+    margin-bottom: 20px;
+}
+@media (min-width: 767px) {
+.search {
+    width: 400px;
+}}
+.btn-purple {
+    color: white;
+    background-color: purple;
+    opacity: 0.75;
+}
+.btn-purple:hover {
+    opacity: 0.94;
+    transition: .3s all ease;
+}
+.btn-purple:active {
+    opacity: 1;
+    transition: .3s all ease;
+}
+.btn-reddish-pink {
+    color: white;
+    background-color: rgb(187, 0, 40);
+    opacity: 0.75;
+}
+.btn-reddish-pink:hover {
+    opacity: 0.94;
+    transition: .3s all ease;
+}
+.btn-reddish-pink:active {
+    opacity: 1;
+    transition: .3s all ease;
+}
+.btn-brown {
+    color: white;
+    background-color: rgb(124, 29, 0);
+    opacity: 0.75;
+}
+.btn-brown:hover {
+    opacity: 0.94;
+    transition: .3s all ease;
+}
+.btn-brown:active {
+    opacity: 1;
+    transition: .3s all ease;
+}
