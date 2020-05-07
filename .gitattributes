@@ -3,3 +3,5 @@
 
 *.html linguist-detectable=false
 *.sql linguist-detectable=false
+*.scss linguist-detectable=false
+*.css linguist-detectable=false
